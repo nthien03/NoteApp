@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NoteApp</string>
+    <string name="action_search">Tìm kiếm ghi chú</string>
+    <string name="title_add_note">Add New Note</string>
+    <string name="title_edit_note">Edit Note</string>
+    <string name="title_notes">Notes</string>
+</resources>
